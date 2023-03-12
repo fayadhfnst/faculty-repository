@@ -1,0 +1,20 @@
+1;Judul1;Nadya Pratiwi;2010-09-12;2022-12-05 13:22:12;Ini abstract tentang judul tersebut;1;file_link1
+2;Judul2;Raihan Syahfitri;2012-02-22;2022-12-05 13:22:12;Ini abstract tentang judul tersebut;0;NULL
+3;Judul3;Nela Rini;2009-09-09;2022-12-05 13:22:12;Ini abstract tentang judul tersebut;1;file_link3
+4;Judul4;Ilhamuddin;2020-07-19;2022-12-05 13:22:12;Ini abstract tentang judul tersebut;1;file_link4
+5;Judul5;Azhari;2005-05-01;2022-12-05 13:22:12;Ini abstract tentang judul tersebut;0;NULL
+6;Judul6;Jamilah;2003-04-22;2022-12-05 13:22:12;Ini abstract tentang judul tersebut;1;file_link6
+7;Judul7;Edbert;2014-06-17;2022-12-05 13:22:12;Ini abstract tentang judul tersebut;1;file_link7
+8;Judul8;Ferdi Budianto;2012-12-12;2022-12-05 13:22:12;Ini abstract tentang judul tersebut;1;file_link8
+9;Judul9;Hafizah Ulfa;2018-08-28;2022-12-05 13:22:12;Ini abstract tentang judul tersebut;1;file_link9
+10;Judul10;Yumna Alifah;2015-07-24;2022-12-05 13:22:12;Ini abstract tentang judul tersebut;1;file_link10
+11;Judul11;Alwi Syahputra;2012-03-01;2022-12-05 13:22:12;Ini abstract tentang judul tersebut;1;file_link11
+12;Judul12;Ahmad Annabani;2009-01-30;2022-12-05 13:22:12;Ini abstract tentang judul tersebut;0;NULL
+13;Judul13;Aji Gemastiar;2012-02-04;2022-12-05 13:22:12;Ini abstract tentang judul tersebut;1;file_link13
+14;Judul14;Arif Nabiil;2007-05-11;2022-12-05 13:22:12;Ini abstract tentang judul tersebut;1;file_link14
+15;Judul15;Endrik Aziz;2004-07-02;2022-12-05 13:22:12;Ini abstract tentang judul tersebut;1;file_link15
+16;Judul16;Ridwan Khanif;2001-09-02;2022-12-05 13:22:12;Ini abstract tentang judul tersebut;0;NULL
+17;Judul17;Wildan Setiawan;2008-05-12;2022-12-05 13:22:12;Ini abstract tentang judul tersebut;1;file_link17
+18;Judul18;Rizki Ramli;2012-02-12;2022-12-05 13:22:12;Ini abstract tentang judul tersebut;0;NULL
+19;Judul19;Dea Amelia;2011-09-09;2022-12-05 13:22:12;Ini abstract tentang judul tersebut;1;file_link19
+20;Judul20;Dinda Wardani;2006-09-12;2022-12-05 13:22:12;Ini abstract tentang judul tersebut;1;file_link20

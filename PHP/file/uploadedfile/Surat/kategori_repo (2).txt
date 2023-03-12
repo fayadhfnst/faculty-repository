@@ -1,0 +1,8 @@
+1;Skripsi;1;0
+2;Thesis;1;0
+3;Disertasi;1;0
+4;Penelitian;1;0
+5;Skripsi;2;0
+6;Thesis;2;0
+7;Disertasi;2;0
+8;Penelitian;2;0
