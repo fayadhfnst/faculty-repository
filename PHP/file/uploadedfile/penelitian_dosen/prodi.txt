@@ -1,0 +1,2 @@
+1;Ilmu Komputer;0
+2;Teknologi Informasi;0

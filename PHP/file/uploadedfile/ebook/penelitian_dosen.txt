@@ -1,0 +1,20 @@
+1;Judul1;Simon Siregar,Dandi Pulungan,Heru Sunandar;2022-12-05;8;ini abstract;1;file_link1;2
+2;Judul2;Hendri Danny,Dicky Herawan,Apriangga;2022-12-05;8;ini abstract;1;file_link1;2
+3;Judul3;Zahra Zetira,Kasim Azhari,Fifia Zahra;2022-12-05;8;ini abstract;1;file_link1;2
+4;Judul4;Indira Maya,Khaleed Khaasmiri,Eka Pratama;2022-12-05;8;ini abstract;1;file_link1;2
+5;Judul5;Sigit Andrian,Adrianto,Kayza Fitri;2022-12-05;8;ini abstract;1;file_link1;2
+6;Judul6;Farhat Abbas,Ardit Ginting,Bintang Halim;2022-12-05;8;ini abstract;1;file_link1;2
+7;Judul7;Kusuma Wijaya,Jason Darui,Karin Nala;2022-12-05;8;ini abstract;1;file_link1;2
+8;Judul8;Nayla Putri,Fitri Kyla,Kayla Azzahra;2022-12-05;8;ini abstract;1;file_link1;2
+9;Judul9;Oktavia Indri,Kiki Korla,Andre Wang;2022-12-05;8;ini abstract;1;file_link1;2
+10;Judul10;Edi Huang,Chintya Kila,Kelra Anggini;2022-12-05;8;ini abstract;1;file_link1;2
+11;Judul11;Bambang Tri,Fitria Azzura,Fikri Ahsan;2022-12-05;8;ini abstract;1;file_link1;2
+12;Judul12;Galih Ramadhan,Ramlah Cika,Polan Diki;2022-12-05;8;ini abstract;1;file_link1;2
+13;Judul13;Putri Indah,Niki Zera,Kara Nindy;2022-12-05;8;ini abstract;1;file_link1;2
+14;Judul14;Mike Wazowski,Julius Sullivan,Mustika Ratu;2022-12-05;8;ini abstract;1;file_link1;2
+15;Judul15;Samson Dwi,Sekar Ningsih,Fulan Egi;2022-12-05;8;ini abstract;1;file_link1;2
+16;Judul16;Nanda Banu,Mona Yolanda,Chika Mika;2022-12-05;8;ini abstract;1;file_link1;2
+17;Judul17;Minnie Winnie,Nadya Zahra,Raihan Jamilah;2022-12-05;8;ini abstract;1;file_link1;2
+18;Judul18;Remi Fadilah,Nenda Ona,Budi Pandu;2022-12-05;8;ini abstract;1;file_link1;2
+19;Judul19;Deno Ando,Saru Tobi,Edi Piko;2022-12-05;8;ini abstract;1;file_link1;2
+20;Judul20;Fiki Rizky,Fela Micelia,Mischa Apriani;2022-12-05;8;ini abstract;1;file_link1;2
